@@ -72,4 +72,4 @@ The **main program controller**.
 ### Documentation
 More detailed explanations of the algorithms and implementation:
 
-➡️ [Full Project Documentation](https://example.com/project-docs)
+➡️ [Full Project Documentation](docs.pdf)
